@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Blog - multiple authors`,
+    title: `Future Money`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarteronemain93235.gatsbyjs.io/`,
     menuLinks:[
