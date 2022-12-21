@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { StaticImage } from 'gatsby-plugin-image'
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -8,8 +9,6 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteDescription = data.site.siteMetadata?.description || `Description`
   const posts = data.allMarkdownRemark.nodes
-
-  
 
   if (posts.length === 0) {
     return (
@@ -25,8 +24,15 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <h6>
+        Fake News about currency, its followers and its future.
+      </h6>
+      <StaticImage
+        alt="Ancient Greece"
+        src="../images/ancient-greece.jpg"
+      />
       <nav>
-        <Link to="/authors">See all contributors</Link>
+          <Link to="/authors">See all contributors</Link>
       </nav>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -50,7 +56,7 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  Contributed by:{authors}
+                  {authors}
                   <small>{post.frontmatter.date}</small>
                 </header>
                 <section>

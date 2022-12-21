@@ -10,8 +10,8 @@
 module.exports = {
   siteMetadata: {
     title: `Future Money`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarteronemain93235.gatsbyjs.io/`,
+    description: `A blog about the currency wars and future of money.`,
+    siteUrl: `https://gatsbymoneyblogmain.gatsbyjs.io/`,
     menuLinks:[
       {
         name: 'home',
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `Future Money Blog`,
+        short_name: `Money`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

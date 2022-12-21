@@ -1,0 +1,21 @@
+---
+title: Web 2 - the centralized world wide web
+date: "2022-11-24T23:10:37.121Z"
+description: "The second era of the world wide web is the centralized era. It is built on surveillance capitalism and remains the dominant to this day."
+authors: Nathan Butler
+---
+When the world wide web first became popular in the mid-nineties, it could be characterised as being free and open.
+
+Web pages were initially conceived as structured documents based upon HTML. They could include images, video, and other content, although the use of media was initially relatively limited and the content was mainly static. By the mid-2000s, new approaches to sharing and exchanging content, such as blogs and RSS, rapidly gained acceptance on the Web. The video-sharing website YouTube launched the concept of user-generated content. As new technologies made it easier to create websites that behaved dynamically, the Web attained greater ease of use and gained a sense of interactivity which ushered in a period of rapid popularization. This new era also brought into existence social networking websites, such as Friendster, MySpace, Facebook, and Twitter, and photo- and video-sharing websites such as Flickr and, later, Instagram which gained users rapidly and became a central part of youth culture. Wikipedia's user-edited content quickly displaced the professionally-written Microsoft Encarta. The popularity of these sites, combined with developments in the technology that enabled them, and the increasing availability and affordability of high-speed connections made video content far more common on all kinds of websites. This new media-rich model for information exchange, featuring user-generated and user-edited websites, was dubbed Web 2.0, a term coined in 1999 and popularized in 2004 at the Web 2.0 Conference. The Web 2.0 boom drew investment from companies worldwide and saw many new service-oriented startups catering to a newly "democratized" Web.
+
+JavaScript made the development of interactive web applications possible. Web pages could run JavaScript and respond to user input, but they could not interact with the network. Browsers could submit data to servers via forms and receive new pages, but this was slow compared to traditional desktop applications. Developers that wanted to offer sophisticated applications over the Web used Java or nonstandard solutions such as Adobe Flash or Microsoft's ActiveX.
+
+Microsoft added a little noticed feature in 1999 called XMLHttpRequest to MSIE. Developers at Oddpost used this feature in 2002 to create the first Ajax application, a webmail client that performed as well as a desktop application. Ajax apps were revolutionary. Web pages evolved beyond static documents to full-blown applications. Websites began offering APIs in addition to webpages. Developers created a plethora of Ajax apps including widgets, mashups and new types of social apps. Analysts called it Web 2.0.
+
+Browser vendors improved the performance of their JavaScript engines and dropped support for Flash and Java. Traditional client server applications were replaced by cloud apps. Amazon reinvented itself as a cloud service provider.
+
+The use of social media on the Web has become ubiquitous in everyday life. The 2010s also saw the rise of streaming services, such as Netflix.
+
+In spite of the success of Web 2.0 applications, the W3C forged ahead with their plan to replace HTML with XHTML and represent all data in XML. In 2004, representatives from Mozilla, Opera, and Apple formed an opposing group, the Web Hypertext Application Technology Working Group (WHATWG), dedicated to improving HTML while maintaining backward compatibility. For the next several years, websites did not transition their content to XHTML; browser vendors did not adopt XHTML2; and developers eschewed XML in favor of JSON. By 2007, the W3C conceded and announced they were restarting work on HTML and in 2009, they officially abandoned XHTML. In 2019, the W3C ceded control of the HTML specification, now called the HTML Living Standard, to WHATWG.
+
+Microsoft rewrote their Edge browser in 2021 to use Chromium as its code base in order to be more compatible with Chrome.

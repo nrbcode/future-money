@@ -6,7 +6,7 @@ which can be passed to the GatsbyImage component.  */
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const Bio = ({ author }) => {
-  let featuredImg = getImage(author.picture?.childImageSharp?.gatsbyImageData)
+  let featuredImg = getImage(author.picture?.childImageSharp?.gatsbyImageData);
 
   return (
      <div className="bio">
