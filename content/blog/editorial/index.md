@@ -5,7 +5,6 @@ description: A tribute to our team of experts.
 authors:
   - Nathan Butler
   - Simeon Butler
-  - Piper Bra-dee
 ---
 These are the wonderful people who contribute to this blog.
 I don't want to name names, but I still need bio pics from some (most) of you.

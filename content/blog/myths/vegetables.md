@@ -2,7 +2,7 @@
 title: Vegetables are a construct.
 date: "2022-05-19T23:10:37.121Z"
 description: In 1893, one of the largest produce sellers in New York City pursued a tax loophole to the highest court in the land - since John Nix’s tomatoes had been imported from the West Indies as vegetables–and had thus been subjected to Chester A. Arthur’s wildly unpopular vegetable tariffs–he sued the city’s tax collector to declare that tomatoes were fruits. 
-authors: Piper Bra-dee
+authors: Nathan Butler
 ---
 ##### Written by [Lynne Peskoe-Yang](https://popula.com/2019/02/20/vegetables-dont-exist/)
 In 1893, one of the largest produce sellers in New York City pursued a tax loophole to the highest court in the land: since John Nix’s tomatoes had been imported from the West Indies as vegetables–and had thus been subjected to Chester A. Arthur’s wildly unpopular vegetable tariffs–he sued the city’s tax collector to declare that tomatoes were fruits.
